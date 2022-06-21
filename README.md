@@ -1,6 +1,7 @@
 ## Docs
 
 - [Ignoring a class property in Entity Framework 4.1 Code First](https://stackoverflow.com/questions/10385248/ignoring-a-class-property-in-entity-framework-4-1-code-first)
+  
   #### `NotMapped` Attribute
   ```csharp
   public class Customer
